@@ -1,1 +1,1 @@
-my shell permissions learning
+my shell redirections learning
