@@ -1,1 +1,1 @@
-my shell redirections learning
+my shell redirection learning
